@@ -2,7 +2,7 @@
 
 <img src="assets/marca/logo-texto-colorida.png" alt="Xepa+" width="480" />
 
-<br /><br />
+<br />
 
 **Conectamos feirantes e consumidores para que o alimento da feira chegue à mesa, e não ao lixo.**
 
