@@ -8,9 +8,11 @@
 
 ![Status](https://img.shields.io/badge/status-em_desenvolvimento-FF5200?style=for-the-badge)
 
-[Apresentação](#apresentação-do-projeto) · [Sobre](#quem-somos) · [Problema](#contexto-e-problema) · [ODS](#impacto-nos-ods) · [Funcionalidades](#funcionalidades) · [Tecnologias](#tecnologias) · [Identidade visual](#identidade-visual) · [Time](#conheça-nosso-time)
+[Apresentação](#xepa-mais) · [Sobre](#quem-somos) · [Problema](#contexto-e-problema) · [ODS](#impacto-nos-ods) · [Funcionalidades](#funcionalidades) · [Tecnologias](#tecnologias) · [Time](#conheça-nosso-time)
 
 </div>
+
+<br>
 
 
 ## Xepa Mais
@@ -21,6 +23,7 @@ A plataforma permite divulgar produtos, apresentar ofertas, aproximar consumidor
 
 > **Fase inicial:** o foco está na validação do modelo em uma ou duas feiras da região da Brasilândia e da Freguesia do Ó, na Zona Norte de São Paulo.
 
+<br>
 
 ## Quem somos
 
@@ -37,6 +40,7 @@ Ser referência no aproveitamento pós-feira, com um modelo sustentável, acess�
 - **Acessibilidade:** comida de qualidade a preço justo.
 - **Compromisso social:** cuidado com quem vive da feira e com quem depende dela.
 
+<br>
 
 
 ## Contexto e problema
@@ -55,6 +59,8 @@ Essa situação representa uma oportunidade de reduzir as perdas financeiras dos
 
 <sub>Fonte: estudo da Unesp sobre o desperdício de alimentos nas feiras livres de São Paulo.</sub>
 
+<br>
+
 
 ## Impacto nos ODS
 
@@ -68,6 +74,8 @@ Apoia os pequenos comerciantes com um canal digital para divulgar produtos e atr
 
 **ODS 12 - Consumo e Produção Responsáveis**<br>
 Reduz o desperdício de alimentos e incentiva o consumo consciente, a utilização mais eficiente dos recursos e a adoção de práticas mais sustentáveis.
+
+<br>
 
 
 ## Funcionalidades
@@ -87,14 +95,16 @@ Reduz o desperdício de alimentos e incentiva o consumo consciente, a utilizaç�
 - **Xep.AI**, assistente com inteligência artificial para o dia a dia da banca (planos Crescer e Pro)
 - Planos de assinatura: Grátis, Crescer e Pro
 
+<br>
 
 ## Tecnologias
 
 **Front-end:**<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+
 
 **Back-end e banco de dados:**<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -108,9 +118,10 @@ Reduz o desperdício de alimentos e incentiva o consumo consciente, a utilizaç�
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 
+<br>
+
 ## Conheça nosso time
 
-Estudantes de diferentes áreas com um mesmo objetivo: levar o alimento da feira à mesa, e não ao lixo.
 
 <table>
   <tr>
@@ -179,6 +190,7 @@ Estudantes de diferentes áreas com um mesmo objetivo: levar o alimento da feira
   </tr>
 </table>
 
+<br>
 
 ## Agradecimentos
 
